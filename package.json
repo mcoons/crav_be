@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piferdg/CRAV_BE.git"
+    "url": "git+https://github.com/mcoons/CRAV_BE.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piferdg/CRAV_BE/issues"
+    "url": "https://github.com/mcoons/CRAV_BE/issues"
   },
-  "homepage": "https://github.com/piferdg/CRAV_BE#readme",
+  "homepage": "https://github.com/mcoons/CRAV_BE#readme",
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.3",
